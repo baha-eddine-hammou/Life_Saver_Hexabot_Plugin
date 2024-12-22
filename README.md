@@ -8,7 +8,11 @@ LifeSaver is a user-friendly chat bot app designed to assist individuals during 
 - **Shelter Guidance:** Identifies the closest shelter based on your location.
 - **SOS Communication:** Enables contact with emergency services like police or personal SOS contacts.
 
+## Workflow
 
+Below is an image representing the workflow of the Hexabot application:
+
+![Hexabot Workflow](hexabot_workflow.png)
 
 ## Acknowledgments
 
