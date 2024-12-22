@@ -1,0 +1,10 @@
+{
+    "name": "hexabot-plugin-weather",
+    "version": "1.1.0",
+    "author": "Your Name",
+    "description": "Hexabot plugin to fetch and display weather data (temperature and wind speed) using Open-Meteo API.",
+    "dependencies": {
+      "axios": "^1.0.0"
+    }
+  }
+  
